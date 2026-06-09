@@ -2,8 +2,6 @@
 
 > Building innovative solutions in Web3, Solana, and blockchain infrastructure
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Contributor;Blockchain+Engineer;Web3+Developer)](https://git.io/typing-svg)
-
 ---
 
 ## 🚀 Open Source Projects
