@@ -1,6 +1,6 @@
 ## 🚀 Open Source Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="60" align="center"><a href="https://github.com/0xfnzero/solana-streamer"><img src="https://github.com/0xfnzero.png" width="46" alt="0xfnzero"/></a></td>
 <td>
