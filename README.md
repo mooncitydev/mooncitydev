@@ -1,27 +1,57 @@
-# 🌙 Mooncity Dev
+<!-- ─────────────────────────  HERO  ───────────────────────── -->
+<div align="center">
 
-> Building innovative solutions in Web3, Solana, and blockchain infrastructure
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&fontSize=0" width="100%" alt="banner" />
+
+<img src="https://github.com/mooncitydev.png" width="130" alt="Mooncity avatar" />
+
+# 🌙 MoonCity
+
+**Digital architect crafting the future at the intersection of Full-Stack, Blockchain &amp; AI Agents.**
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Senior+Blockchain+Engineer;Solana+%E2%80%A2+Rust+%E2%80%A2+TypeScript;DeFi+%E2%80%A2+Perps+%E2%80%A2+Prediction+Markets;AI-Powered+On-Chain+Tooling" alt="typing" />
+
+<br/>
+
+<a href="https://mooncity.io"><img src="https://img.shields.io/badge/Website-mooncity.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+<a href="https://twitter.com/mooncityio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://t.me/moooncity"><img src="https://img.shields.io/badge/Telegram-0181FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="mailto:mooncity.james@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
+<!-- ─────────────────────  SENIOR DEV'S VISION  ───────────────────── -->
+## 🪐 The Senior Dev's Vision
+
+> I don't just ship code — I architect systems built to outlive their first deploy.
+>
+> Every protocol, SDK, and CLI follows one principle: **make the hard things invisible**. Zero-copy where it counts, type-safe to the edges, and fast enough that latency never sits between an idea and on-chain reality.
+>
+> The next decade belongs to builders who fuse **blockchain rails** with **autonomous AI agents** — and I'm building that bridge, one battle-tested commit at a time.
+
+<div align="center">
+
+`⚡ Performance-first`  •  `🔒 Security by design`  •  `🧩 Composable systems`  •  `🤖 Agent-native`
+
+</div>
+
+---
+
+<!-- ─────────────────────  OPEN SOURCE PROJECTS  ───────────────────── -->
 ## 🚀 Open Source Projects
+
+<sub>Selected open-source contributions across the Solana, Rust &amp; Web3 ecosystem — sorted by community stars.</sub>
 
 <table>
 <tr>
 <td width="33.33%">
 
-### 🔗 [flashbots/op-rbuilder](https://github.com/flashbots/op-rbuilder)
-**flashbots** • ⭐ 51 • 🦀 Rust
+### 🔗 [0xfnzero/solana-streamer](https://github.com/0xfnzero/solana-streamer)
+**0xfnzero** • ⭐ 173 • 🦀 Rust
 
-Open-source work - view repository on GitHub.
-
-</td>
-<td width="33.33%">
-
-### 🔗 [TxnLab/use-wallet-ui](https://github.com/TxnLab/use-wallet-ui)
-**TxnLab** • ⭐ 0 • 📘 TypeScript
-
-Ready-to-use UI components for Algorand wallet integration, built as a component to...
+A lightweight Rust library for real-time event streaming from Solana DEX trading...
 
 </td>
 <td width="33.33%">
@@ -30,6 +60,14 @@ Ready-to-use UI components for Algorand wallet integration, built as a component
 **jup-ag** • ⭐ 52 • 📘 TypeScript
 
 CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Marke...
+
+</td>
+<td width="33.33%">
+
+### 🔗 [flashbots/op-rbuilder](https://github.com/flashbots/op-rbuilder)
+**flashbots** • ⭐ 51 • 🦀 Rust
+
+Open-source work - view repository on GitHub.
 
 </td>
 </tr>
@@ -44,80 +82,10 @@ Official Helius AI tooling repository
 </td>
 <td width="33.33%">
 
-### 🔗 [0dotxyz/p0-ts-sdk](https://github.com/0dotxyz/p0-ts-sdk)
-**0dotxyz** • ⭐ 7 • 📘 TypeScript
-
-Open-source work - view repository on GitHub.
-
-</td>
-<td width="33.33%">
-
-### 🔗 [cubee-ee/sdk](https://github.com/cubee-ee/sdk)
-**cubee-ee** • ⭐ 0 • 📘 TypeScript
-
-Open-source work - view repository on GitHub.
-
-</td>
-</tr>
-<tr>
-<td width="33.33%">
-
-### 🔗 [Reppo-Labs/reppo-cli](https://github.com/Reppo-Labs/reppo-cli)
-**Reppo-Labs** • ⭐ 1 • 📘 TypeScript
-
-CLI for Reppo — mint pods, vote, lock REPPO, manage datanets. Built for AI agents.
-
-</td>
-<td width="33.33%">
-
-### 🔗 [blueshift-gg/zeropod](https://github.com/blueshift-gg/zeropod)
-**blueshift-gg** • ⭐ 4 • 🦀 Rust
-
-Zero-copy, alignment-1 pod types for Solana programs
-
-</td>
-<td width="33.33%">
-
 ### 🔗 [Ellipsis-Labs/cargo-hold](https://github.com/Ellipsis-Labs/cargo-hold)
 **Ellipsis-Labs** • ⭐ 14 • 🦀 Rust
 
 cargo-hold makes your Rust CI caching actually work ✨💖
-
-</td>
-</tr>
-<tr>
-<td width="33.33%">
-
-### 🔗 [qqomega-labs/qq-launchpad-sol](https://github.com/qqomega-labs/qq-launchpad-sol)
-**qqomega-labs** • ⭐ 0 • 📘 TypeScript
-
-Solana launchpad for the QQ Omega token with Meteora Dynamic Bonding Curve
-
-</td>
-<td width="33.33%">
-
-### 🔗 [0xfnzero/solana-streamer](https://github.com/0xfnzero/solana-streamer)
-**0xfnzero** • ⭐ 173 • 🦀 Rust
-
-A lightweight Rust library for real-time event streaming from Solana DEX trading...
-
-</td>
-<td width="33.33%">
-
-### 🔗 [w3-kit/contracts](https://github.com/w3-kit/contracts)
-**w3-kit** • ⭐ 1 • 📘 TypeScript
-
-Smart contract templates for EVM & Solana
-
-</td>
-</tr>
-<tr>
-<td width="33.33%">
-
-### 🔗 [kai-builds-ai/perk-protocol-public](https://github.com/kai-builds-ai/perk-protocol-public)
-**kai-builds-ai** • ⭐ 8 • 🦀 Rust
-
-Permissionless perpetual futures on Solana
 
 </td>
 <td width="33.33%">
@@ -128,6 +96,42 @@ Permissionless perpetual futures on Solana
 Solana program parsing toolkit
 
 </td>
+</tr>
+<tr>
+<td width="33.33%">
+
+### 🔗 [axone-protocol/axoned](https://github.com/axone-protocol/axoned)
+**axone-protocol** • ⭐ 9 • 🟠 Go
+
+Axone blockchain client
+
+</td>
+<td width="33.33%">
+
+### 🔗 [kai-builds-ai/perk-protocol-public](https://github.com/kai-builds-ai/perk-protocol-public)
+**kai-builds-ai** • ⭐ 8 • 🦀 Rust
+
+Permissionless perpetual futures on Solana
+
+</td>
+<td width="33.33%">
+
+### 🔗 [0dotxyz/p0-ts-sdk](https://github.com/0dotxyz/p0-ts-sdk)
+**0dotxyz** • ⭐ 7 • 📘 TypeScript
+
+Open-source work - view repository on GitHub.
+
+</td>
+</tr>
+<tr>
+<td width="33.33%">
+
+### 🔗 [infinitefield/hypersdk](https://github.com/infinitefield/hypersdk)
+**infinitefield** • ⭐ 6 • 🦀 Rust
+
+Hyperliquid Rust SDK
+
+</td>
 <td width="33.33%">
 
 ### 🔗 [enviodev/centrifuge-indexer](https://github.com/enviodev/centrifuge-indexer)
@@ -136,30 +140,12 @@ Solana program parsing toolkit
 Centrifuge indexer tool
 
 </td>
-</tr>
-<tr>
 <td width="33.33%">
 
-### 🔗 [kuestcom/prediction-market](https://github.com/kuestcom/prediction-market)
-**kuestcom** • ⭐ 2 • 📘 TypeScript
+### 🔗 [blueshift-gg/zeropod](https://github.com/blueshift-gg/zeropod)
+**blueshift-gg** • ⭐ 4 • 🦀 Rust
 
-Decentralized prediction market (Polymarket-like)
-
-</td>
-<td width="33.33%">
-
-### 🔗 [CrocSwap/perps-app](https://github.com/CrocSwap/perps-app)
-**CrocSwap** • ⭐ 3 • 📘 TypeScript
-
-CrocSwap perps application
-
-</td>
-<td width="33.33%">
-
-### 🔗 [SAFE-anwang/web3j-safe4](https://github.com/SAFE-anwang/web3j-safe4)
-**SAFE-anwang** • ⭐ 1 • ☕ Java
-
-SAFE4 extension Web3 API for Java
+Zero-copy, alignment-1 pod types for Solana programs
 
 </td>
 </tr>
@@ -174,10 +160,10 @@ Hacash fullnode dev repo
 </td>
 <td width="33.33%">
 
-### 🔗 [infinitefield/hypersdk](https://github.com/infinitefield/hypersdk)
-**infinitefield** • ⭐ 6 • 🦀 Rust
+### 🔗 [CrocSwap/perps-app](https://github.com/CrocSwap/perps-app)
+**CrocSwap** • ⭐ 3 • 📘 TypeScript
 
-Hyperliquid Rust SDK
+CrocSwap perps application
 
 </td>
 <td width="33.33%">
@@ -192,10 +178,62 @@ Sentrix Chain Layer-1 blockchain
 <tr>
 <td width="33.33%">
 
-### 🔗 [axone-protocol/axoned](https://github.com/axone-protocol/axoned)
-**axone-protocol** • ⭐ 9 • 🟠 Go
+### 🔗 [kuestcom/prediction-market](https://github.com/kuestcom/prediction-market)
+**kuestcom** • ⭐ 2 • 📘 TypeScript
 
-Axone blockchain client
+Decentralized prediction market (Polymarket-like)
+
+</td>
+<td width="33.33%">
+
+### 🔗 [Reppo-Labs/reppo-cli](https://github.com/Reppo-Labs/reppo-cli)
+**Reppo-Labs** • ⭐ 1 • 📘 TypeScript
+
+CLI for Reppo — mint pods, vote, lock REPPO, manage datanets. Built for AI agents.
+
+</td>
+<td width="33.33%">
+
+### 🔗 [w3-kit/contracts](https://github.com/w3-kit/contracts)
+**w3-kit** • ⭐ 1 • 📘 TypeScript
+
+Smart contract templates for EVM & Solana
+
+</td>
+</tr>
+<tr>
+<td width="33.33%">
+
+### 🔗 [SAFE-anwang/web3j-safe4](https://github.com/SAFE-anwang/web3j-safe4)
+**SAFE-anwang** • ⭐ 1 • ☕ Java
+
+SAFE4 extension Web3 API for Java
+
+</td>
+<td width="33.33%">
+
+### 🔗 [TxnLab/use-wallet-ui](https://github.com/TxnLab/use-wallet-ui)
+**TxnLab** • ⭐ 0 • 📘 TypeScript
+
+Ready-to-use UI components for Algorand wallet integration, built as a component to...
+
+</td>
+<td width="33.33%">
+
+### 🔗 [cubee-ee/sdk](https://github.com/cubee-ee/sdk)
+**cubee-ee** • ⭐ 0 • 📘 TypeScript
+
+Open-source work - view repository on GitHub.
+
+</td>
+</tr>
+<tr>
+<td width="33.33%">
+
+### 🔗 [qqomega-labs/qq-launchpad-sol](https://github.com/qqomega-labs/qq-launchpad-sol)
+**qqomega-labs** • ⭐ 0 • 📘 TypeScript
+
+Solana launchpad for the QQ Omega token with Meteora Dynamic Bonding Curve
 
 </td>
 <td width="33.33%">
@@ -214,7 +252,8 @@ Docker Compose environment for IGRA Orchestra
 
 ---
 
-## 📊 Technology Stack
+<!-- ─────────────────────  TECH STACK  ───────────────────── -->
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -230,25 +269,35 @@ Docker Compose environment for IGRA Orchestra
 
 ---
 
+<!-- ─────────────────────  GITHUB STATS  ───────────────────── -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mooncitydev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncitydev&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mooncitydev&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
+
+</div>
+
+---
+
+<!-- ─────────────────────  FOCUS AREAS  ───────────────────── -->
 ## 🎯 Focus Areas
 
-- 🔗 **Blockchain Infrastructure** - Building robust Web3 tools and protocols
-- 🚀 **Solana Ecosystem** - Specialized development for Solana programs
-- 💱 **DeFi** - Perpetual futures, AMMs, launchpads, and prediction markets
-- 🤖 **AI Tooling** - AI-powered blockchain development tools
-- 📦 **SDK & CLI Tools** - Developer-friendly libraries and command-line utilities
-- ⚡ **Performance** - Zero-copy optimizations and high-speed streaming
+- 🔗 **Blockchain Infrastructure** — Building robust Web3 tools and protocols
+- 🚀 **Solana Ecosystem** — Specialized development for Solana programs
+- 💱 **DeFi** — Perpetual futures, AMMs, launchpads, and prediction markets
+- 🤖 **AI Tooling** — AI-powered, agent-native blockchain development tools
+- 📦 **SDK & CLI Tools** — Developer-friendly libraries and command-line utilities
+- ⚡ **Performance** — Zero-copy optimizations and high-speed streaming
 
 ---
 
-## 💡 Quick Links
-
-- 🌐 [Website](https://mooncity.io)
-- 👨‍💻 [GitHub](https://github.com/mooncitydev)
-- 📧 [Get in Touch](https://mooncity.io)
-
----
-
+<!-- ─────────────────────  CONTRIBUTING  ───────────────────── -->
 ## 🤝 Contributing
 
 All projects are open source! Feel free to:
@@ -259,10 +308,13 @@ All projects are open source! Feel free to:
 
 ---
 
+<!-- ─────────────────────  FOOTER  ───────────────────── -->
 <div align="center">
 
-**Made with 🌙 by Mooncity Dev**
+**Made with 🌙 by MoonCity** — _digital architect, building the future._
 
-![Profile views](https://komarev.com/ghpvc/?username=mooncitydev&color=00D9FF)
+![Profile views](https://komarev.com/ghpvc/?username=mooncitydev&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
