@@ -1,320 +1,210 @@
-<!-- ─────────────────────────  HERO  ───────────────────────── -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&fontSize=0" width="100%" alt="banner" />
-
-<img src="https://github.com/mooncitydev.png" width="130" alt="Mooncity avatar" />
-
-# 🌙 MoonCity
-
-**Digital architect crafting the future at the intersection of Full-Stack, Blockchain &amp; AI Agents.**
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=Senior+Blockchain+Engineer;Solana+%E2%80%A2+Rust+%E2%80%A2+TypeScript;DeFi+%E2%80%A2+Perps+%E2%80%A2+Prediction+Markets;AI-Powered+On-Chain+Tooling" alt="typing" />
-
-<br/>
-
-<a href="https://mooncity.io"><img src="https://img.shields.io/badge/Website-mooncity.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-<a href="https://twitter.com/mooncityio"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://t.me/moooncity"><img src="https://img.shields.io/badge/Telegram-0181FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="mailto:mooncity.james@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
-
----
-
-<!-- ─────────────────────  SENIOR DEV'S VISION  ───────────────────── -->
-## 🪐 The Senior Dev's Vision
-
-> I don't just ship code — I architect systems built to outlive their first deploy.
->
-> Every protocol, SDK, and CLI follows one principle: **make the hard things invisible**. Zero-copy where it counts, type-safe to the edges, and fast enough that latency never sits between an idea and on-chain reality.
->
-> The next decade belongs to builders who fuse **blockchain rails** with **autonomous AI agents** — and I'm building that bridge, one battle-tested commit at a time.
-
-<div align="center">
-
-`⚡ Performance-first`  •  `🔒 Security by design`  •  `🧩 Composable systems`  •  `🤖 Agent-native`
-
-</div>
-
----
-
-<!-- ─────────────────────  OPEN SOURCE PROJECTS  ───────────────────── -->
 ## 🚀 Open Source Projects
-
-<sub>Selected open-source contributions across the Solana, Rust &amp; Web3 ecosystem — sorted by community stars.</sub>
 
 <table>
 <tr>
-<td width="33.33%">
-
-### 🔗 [0xfnzero/solana-streamer](https://github.com/0xfnzero/solana-streamer)
-**0xfnzero** • ⭐ 173 • 🦀 Rust
-
-A lightweight Rust library for real-time event streaming from Solana DEX trading...
-
-</td>
-<td width="33.33%">
-
-### 🔗 [jup-ag/cli](https://github.com/jup-ag/cli)
-**jup-ag** • ⭐ 52 • 📘 TypeScript
-
-CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Marke...
-
-</td>
-<td width="33.33%">
-
-### 🔗 [flashbots/op-rbuilder](https://github.com/flashbots/op-rbuilder)
-**flashbots** • ⭐ 51 • 🦀 Rust
-
-Open-source work - view repository on GitHub.
-
+<td width="60" align="center"><a href="https://github.com/0xfnzero/solana-streamer"><img src="https://github.com/0xfnzero.png" width="46" alt="0xfnzero"/></a></td>
+<td>
+<a href="https://github.com/0xfnzero/solana-streamer"><b>0xfnzero/solana-streamer</b></a><br/>
+<sub>A lightweight Rust library for real-time event streaming from Solana DEX trading...</sub><br/>
+⭐ 173 &nbsp;•&nbsp; 🦀 Rust
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [helius-labs/core-ai](https://github.com/helius-labs/core-ai)
-**helius-labs** • ⭐ 18 • 📘 TypeScript
-
-Official Helius AI tooling repository
-
-</td>
-<td width="33.33%">
-
-### 🔗 [Ellipsis-Labs/cargo-hold](https://github.com/Ellipsis-Labs/cargo-hold)
-**Ellipsis-Labs** • ⭐ 14 • 🦀 Rust
-
-cargo-hold makes your Rust CI caching actually work ✨💖
-
-</td>
-<td width="33.33%">
-
-### 🔗 [rpcpool/yellowstone-vixen](https://github.com/rpcpool/yellowstone-vixen)
-**rpcpool** • ⭐ 12 • 🦀 Rust
-
-Solana program parsing toolkit
-
+<td width="60" align="center"><a href="https://github.com/jup-ag/cli"><img src="https://github.com/jup-ag.png" width="46" alt="jup-ag"/></a></td>
+<td>
+<a href="https://github.com/jup-ag/cli"><b>jup-ag/cli</b></a><br/>
+<sub>CLI for interacting with Jupiter's products on Solana: Spot, Perps, Lend, Prediction Marke...</sub><br/>
+⭐ 52 &nbsp;•&nbsp; 📘 TypeScript
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [axone-protocol/axoned](https://github.com/axone-protocol/axoned)
-**axone-protocol** • ⭐ 9 • 🟠 Go
-
-Axone blockchain client
-
-</td>
-<td width="33.33%">
-
-### 🔗 [kai-builds-ai/perk-protocol-public](https://github.com/kai-builds-ai/perk-protocol-public)
-**kai-builds-ai** • ⭐ 8 • 🦀 Rust
-
-Permissionless perpetual futures on Solana
-
-</td>
-<td width="33.33%">
-
-### 🔗 [0dotxyz/p0-ts-sdk](https://github.com/0dotxyz/p0-ts-sdk)
-**0dotxyz** • ⭐ 7 • 📘 TypeScript
-
-Open-source work - view repository on GitHub.
-
+<td width="60" align="center"><a href="https://github.com/flashbots/op-rbuilder"><img src="https://github.com/flashbots.png" width="46" alt="flashbots"/></a></td>
+<td>
+<a href="https://github.com/flashbots/op-rbuilder"><b>flashbots/op-rbuilder</b></a><br/>
+<sub>Open-source work - view repository on GitHub.</sub><br/>
+⭐ 51 &nbsp;•&nbsp; 🦀 Rust
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [infinitefield/hypersdk](https://github.com/infinitefield/hypersdk)
-**infinitefield** • ⭐ 6 • 🦀 Rust
-
-Hyperliquid Rust SDK
-
-</td>
-<td width="33.33%">
-
-### 🔗 [enviodev/centrifuge-indexer](https://github.com/enviodev/centrifuge-indexer)
-**enviodev** • ⭐ 5 • 📘 TypeScript
-
-Centrifuge indexer tool
-
-</td>
-<td width="33.33%">
-
-### 🔗 [blueshift-gg/zeropod](https://github.com/blueshift-gg/zeropod)
-**blueshift-gg** • ⭐ 4 • 🦀 Rust
-
-Zero-copy, alignment-1 pod types for Solana programs
-
+<td width="60" align="center"><a href="https://github.com/helius-labs/core-ai"><img src="https://github.com/helius-labs.png" width="46" alt="helius-labs"/></a></td>
+<td>
+<a href="https://github.com/helius-labs/core-ai"><b>helius-labs/core-ai</b></a><br/>
+<sub>Official Helius AI tooling repository</sub><br/>
+⭐ 18 &nbsp;•&nbsp; 📘 TypeScript
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [hacash/fullnodedev](https://github.com/hacash/fullnodedev)
-**hacash** • ⭐ 4 • 🦀 Rust
-
-Hacash fullnode dev repo
-
-</td>
-<td width="33.33%">
-
-### 🔗 [CrocSwap/perps-app](https://github.com/CrocSwap/perps-app)
-**CrocSwap** • ⭐ 3 • 📘 TypeScript
-
-CrocSwap perps application
-
-</td>
-<td width="33.33%">
-
-### 🔗 [sentrix-labs/sentrix](https://github.com/sentrix-labs/sentrix)
-**sentrix-labs** • ⭐ 3 • 🦀 Rust
-
-Sentrix Chain Layer-1 blockchain
-
+<td width="60" align="center"><a href="https://github.com/Ellipsis-Labs/cargo-hold"><img src="https://github.com/Ellipsis-Labs.png" width="46" alt="Ellipsis-Labs"/></a></td>
+<td>
+<a href="https://github.com/Ellipsis-Labs/cargo-hold"><b>Ellipsis-Labs/cargo-hold</b></a><br/>
+<sub>cargo-hold makes your Rust CI caching actually work ✨💖</sub><br/>
+⭐ 14 &nbsp;•&nbsp; 🦀 Rust
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [kuestcom/prediction-market](https://github.com/kuestcom/prediction-market)
-**kuestcom** • ⭐ 2 • 📘 TypeScript
-
-Decentralized prediction market (Polymarket-like)
-
-</td>
-<td width="33.33%">
-
-### 🔗 [Reppo-Labs/reppo-cli](https://github.com/Reppo-Labs/reppo-cli)
-**Reppo-Labs** • ⭐ 1 • 📘 TypeScript
-
-CLI for Reppo — mint pods, vote, lock REPPO, manage datanets. Built for AI agents.
-
-</td>
-<td width="33.33%">
-
-### 🔗 [w3-kit/contracts](https://github.com/w3-kit/contracts)
-**w3-kit** • ⭐ 1 • 📘 TypeScript
-
-Smart contract templates for EVM & Solana
-
+<td width="60" align="center"><a href="https://github.com/rpcpool/yellowstone-vixen"><img src="https://github.com/rpcpool.png" width="46" alt="rpcpool"/></a></td>
+<td>
+<a href="https://github.com/rpcpool/yellowstone-vixen"><b>rpcpool/yellowstone-vixen</b></a><br/>
+<sub>Solana program parsing toolkit</sub><br/>
+⭐ 12 &nbsp;•&nbsp; 🦀 Rust
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [SAFE-anwang/web3j-safe4](https://github.com/SAFE-anwang/web3j-safe4)
-**SAFE-anwang** • ⭐ 1 • ☕ Java
-
-SAFE4 extension Web3 API for Java
-
-</td>
-<td width="33.33%">
-
-### 🔗 [TxnLab/use-wallet-ui](https://github.com/TxnLab/use-wallet-ui)
-**TxnLab** • ⭐ 0 • 📘 TypeScript
-
-Ready-to-use UI components for Algorand wallet integration, built as a component to...
-
-</td>
-<td width="33.33%">
-
-### 🔗 [cubee-ee/sdk](https://github.com/cubee-ee/sdk)
-**cubee-ee** • ⭐ 0 • 📘 TypeScript
-
-Open-source work - view repository on GitHub.
-
+<td width="60" align="center"><a href="https://github.com/axone-protocol/axoned"><img src="https://github.com/axone-protocol.png" width="46" alt="axone-protocol"/></a></td>
+<td>
+<a href="https://github.com/axone-protocol/axoned"><b>axone-protocol/axoned</b></a><br/>
+<sub>Axone blockchain client</sub><br/>
+⭐ 9 &nbsp;•&nbsp; 🟠 Go
 </td>
 </tr>
+
 <tr>
-<td width="33.33%">
-
-### 🔗 [qqomega-labs/qq-launchpad-sol](https://github.com/qqomega-labs/qq-launchpad-sol)
-**qqomega-labs** • ⭐ 0 • 📘 TypeScript
-
-Solana launchpad for the QQ Omega token with Meteora Dynamic Bonding Curve
-
+<td width="60" align="center"><a href="https://github.com/kai-builds-ai/perk-protocol-public"><img src="https://github.com/kai-builds-ai.png" width="46" alt="kai-builds-ai"/></a></td>
+<td>
+<a href="https://github.com/kai-builds-ai/perk-protocol-public"><b>kai-builds-ai/perk-protocol-public</b></a><br/>
+<sub>Permissionless perpetual futures on Solana</sub><br/>
+⭐ 8 &nbsp;•&nbsp; 🦀 Rust
 </td>
-<td width="33.33%">
+</tr>
 
-### 🔗 [IgraLabs/igra-orchestra](https://github.com/IgraLabs/igra-orchestra)
-**IgraLabs** • ⭐ 0 • 🐚 Shell
-
-Docker Compose environment for IGRA Orchestra
-
+<tr>
+<td width="60" align="center"><a href="https://github.com/0dotxyz/p0-ts-sdk"><img src="https://github.com/0dotxyz.png" width="46" alt="0dotxyz"/></a></td>
+<td>
+<a href="https://github.com/0dotxyz/p0-ts-sdk"><b>0dotxyz/p0-ts-sdk</b></a><br/>
+<sub>Open-source work - view repository on GitHub.</sub><br/>
+⭐ 7 &nbsp;•&nbsp; 📘 TypeScript
 </td>
-<td width="33.33%">
+</tr>
 
+<tr>
+<td width="60" align="center"><a href="https://github.com/infinitefield/hypersdk"><img src="https://github.com/infinitefield.png" width="46" alt="infinitefield"/></a></td>
+<td>
+<a href="https://github.com/infinitefield/hypersdk"><b>infinitefield/hypersdk</b></a><br/>
+<sub>Hyperliquid Rust SDK</sub><br/>
+⭐ 6 &nbsp;•&nbsp; 🦀 Rust
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/enviodev/centrifuge-indexer"><img src="https://github.com/enviodev.png" width="46" alt="enviodev"/></a></td>
+<td>
+<a href="https://github.com/enviodev/centrifuge-indexer"><b>enviodev/centrifuge-indexer</b></a><br/>
+<sub>Centrifuge indexer tool</sub><br/>
+⭐ 5 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/blueshift-gg/zeropod"><img src="https://github.com/blueshift-gg.png" width="46" alt="blueshift-gg"/></a></td>
+<td>
+<a href="https://github.com/blueshift-gg/zeropod"><b>blueshift-gg/zeropod</b></a><br/>
+<sub>Zero-copy, alignment-1 pod types for Solana programs</sub><br/>
+⭐ 4 &nbsp;•&nbsp; 🦀 Rust
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/hacash/fullnodedev"><img src="https://github.com/hacash.png" width="46" alt="hacash"/></a></td>
+<td>
+<a href="https://github.com/hacash/fullnodedev"><b>hacash/fullnodedev</b></a><br/>
+<sub>Hacash fullnode dev repo</sub><br/>
+⭐ 4 &nbsp;•&nbsp; 🦀 Rust
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/CrocSwap/perps-app"><img src="https://github.com/CrocSwap.png" width="46" alt="CrocSwap"/></a></td>
+<td>
+<a href="https://github.com/CrocSwap/perps-app"><b>CrocSwap/perps-app</b></a><br/>
+<sub>CrocSwap perps application</sub><br/>
+⭐ 3 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/sentrix-labs/sentrix"><img src="https://github.com/sentrix-labs.png" width="46" alt="sentrix-labs"/></a></td>
+<td>
+<a href="https://github.com/sentrix-labs/sentrix"><b>sentrix-labs/sentrix</b></a><br/>
+<sub>Sentrix Chain Layer-1 blockchain</sub><br/>
+⭐ 3 &nbsp;•&nbsp; 🦀 Rust
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/kuestcom/prediction-market"><img src="https://github.com/kuestcom.png" width="46" alt="kuestcom"/></a></td>
+<td>
+<a href="https://github.com/kuestcom/prediction-market"><b>kuestcom/prediction-market</b></a><br/>
+<sub>Decentralized prediction market (Polymarket-like)</sub><br/>
+⭐ 2 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/Reppo-Labs/reppo-cli"><img src="https://github.com/Reppo-Labs.png" width="46" alt="Reppo-Labs"/></a></td>
+<td>
+<a href="https://github.com/Reppo-Labs/reppo-cli"><b>Reppo-Labs/reppo-cli</b></a><br/>
+<sub>CLI for Reppo — mint pods, vote, lock REPPO, manage datanets. Built for AI agents.</sub><br/>
+⭐ 1 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/w3-kit/contracts"><img src="https://github.com/w3-kit.png" width="46" alt="w3-kit"/></a></td>
+<td>
+<a href="https://github.com/w3-kit/contracts"><b>w3-kit/contracts</b></a><br/>
+<sub>Smart contract templates for EVM &amp; Solana</sub><br/>
+⭐ 1 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/SAFE-anwang/web3j-safe4"><img src="https://github.com/SAFE-anwang.png" width="46" alt="SAFE-anwang"/></a></td>
+<td>
+<a href="https://github.com/SAFE-anwang/web3j-safe4"><b>SAFE-anwang/web3j-safe4</b></a><br/>
+<sub>SAFE4 extension Web3 API for Java</sub><br/>
+⭐ 1 &nbsp;•&nbsp; ☕ Java
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/TxnLab/use-wallet-ui"><img src="https://github.com/TxnLab.png" width="46" alt="TxnLab"/></a></td>
+<td>
+<a href="https://github.com/TxnLab/use-wallet-ui"><b>TxnLab/use-wallet-ui</b></a><br/>
+<sub>Ready-to-use UI components for Algorand wallet integration, built as a component to...</sub><br/>
+⭐ 0 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/cubee-ee/sdk"><img src="https://github.com/cubee-ee.png" width="46" alt="cubee-ee"/></a></td>
+<td>
+<a href="https://github.com/cubee-ee/sdk"><b>cubee-ee/sdk</b></a><br/>
+<sub>Open-source work - view repository on GitHub.</sub><br/>
+⭐ 0 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/qqomega-labs/qq-launchpad-sol"><img src="https://github.com/qqomega-labs.png" width="46" alt="qqomega-labs"/></a></td>
+<td>
+<a href="https://github.com/qqomega-labs/qq-launchpad-sol"><b>qqomega-labs/qq-launchpad-sol</b></a><br/>
+<sub>Solana launchpad for the QQ Omega token with Meteora Dynamic Bonding Curve</sub><br/>
+⭐ 0 &nbsp;•&nbsp; 📘 TypeScript
+</td>
+</tr>
+
+<tr>
+<td width="60" align="center"><a href="https://github.com/IgraLabs/igra-orchestra"><img src="https://github.com/IgraLabs.png" width="46" alt="IgraLabs"/></a></td>
+<td>
+<a href="https://github.com/IgraLabs/igra-orchestra"><b>IgraLabs/igra-orchestra</b></a><br/>
+<sub>Docker Compose environment for IGRA Orchestra</sub><br/>
+⭐ 0 &nbsp;•&nbsp; 🐚 Shell
 </td>
 </tr>
 </table>
-
----
-
-<!-- ─────────────────────  TECH STACK  ───────────────────── -->
-## 🛠️ Technology Stack
-
-<div align="center">
-
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-</div>
-
----
-
-<!-- ─────────────────────  GITHUB STATS  ───────────────────── -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mooncitydev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooncitydev&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mooncitydev&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
-
-</div>
-
----
-
-<!-- ─────────────────────  FOCUS AREAS  ───────────────────── -->
-## 🎯 Focus Areas
-
-- 🔗 **Blockchain Infrastructure** — Building robust Web3 tools and protocols
-- 🚀 **Solana Ecosystem** — Specialized development for Solana programs
-- 💱 **DeFi** — Perpetual futures, AMMs, launchpads, and prediction markets
-- 🤖 **AI Tooling** — AI-powered, agent-native blockchain development tools
-- 📦 **SDK & CLI Tools** — Developer-friendly libraries and command-line utilities
-- ⚡ **Performance** — Zero-copy optimizations and high-speed streaming
-
----
-
-<!-- ─────────────────────  CONTRIBUTING  ───────────────────── -->
-## 🤝 Contributing
-
-All projects are open source! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest improvements
-- 🔄 Submit pull requests
-- 📝 Improve documentation
-
----
-
-<!-- ─────────────────────  FOOTER  ───────────────────── -->
-<div align="center">
-
-**Made with 🌙 by MoonCity** — _digital architect, building the future._
-
-![Profile views](https://komarev.com/ghpvc/?username=mooncitydev&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer" />
-
-</div>
